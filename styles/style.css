@@ -8,14 +8,14 @@ body {
 }
 
 .title {
-    color: gray;
+    color: black;
     padding: 0.8em;
     text-align: center;
     font-size: 39px;
 }
 
 .desc {
-    color: gray;
+    color: black;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ code {
 }
 
 .example {
-    color: gray;
+    color: black;
 }
 
 #main-icon {
